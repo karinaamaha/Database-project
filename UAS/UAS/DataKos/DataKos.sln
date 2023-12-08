@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataKos", "DataKos.csproj", "{B9009E24-1658-470D-A6D1-1BF139187407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9009E24-1658-470D-A6D1-1BF139187407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9009E24-1658-470D-A6D1-1BF139187407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9009E24-1658-470D-A6D1-1BF139187407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9009E24-1658-470D-A6D1-1BF139187407}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C23B397-D5E0-4FA1-AC30-A81A296D954D}
+	EndGlobalSection
+EndGlobal
